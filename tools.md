@@ -1,4 +1,11 @@
 
+
+Ryan Dahl's Interface to Go
+https://github.com/ry/v8worker
+
+Composable Buffers for Go
+https://github.com/djherbis/buffer
+
 https://github.com/mailgun/vulcand-docs
 
 https://github.com/zerklabs/auburn

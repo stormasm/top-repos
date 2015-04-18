@@ -1,6 +1,8 @@
 
 #### Current
 
+https://github.com/peterbourgon/gokit
+
 https://github.com/avelino/awesome-go
 
 https://github.com/julienschmidt/go-http-routing-benchmark
@@ -42,4 +44,3 @@ https://github.com/xeipuuv/gojsonschema
 https://github.com/rakyll/boom
 
 https://github.com/go-distributed/epaxos
-
