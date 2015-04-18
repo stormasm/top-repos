@@ -1,6 +1,8 @@
 
 #### Current
 
+https://github.com/chrislusf/seaweedfs
+
 https://github.com/peterbourgon/gokit
 
 https://github.com/avelino/awesome-go
@@ -32,6 +34,11 @@ https://github.com/remind101/deploy
 https://github.com/h2so5/murcott
 
 #### 2015 Winter
+
+https://github.com/tylertreat/Comcast
+
+https://github.com/peterhellberg/wiki
+
 https://github.com/parnurzeal/gorequest
 
 https://github.com/RangelReale/osin
@@ -44,3 +51,5 @@ https://github.com/xeipuuv/gojsonschema
 https://github.com/rakyll/boom
 
 https://github.com/go-distributed/epaxos
+
+https://github.com/cznic/kv

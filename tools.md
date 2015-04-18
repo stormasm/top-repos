@@ -6,6 +6,8 @@ https://github.com/ry/v8worker
 Composable Buffers for Go
 https://github.com/djherbis/buffer
 
+https://github.com/ugorji/go
+
 https://github.com/mailgun/vulcand-docs
 
 https://github.com/zerklabs/auburn
@@ -29,3 +31,7 @@ https://github.com/mailgun/oxy
 https://github.com/mailgun/vulcand
 
 https://github.com/grafana/grafana
+
+https://github.com/mailgun/vulcand-docs
+
+https://github.com/crackcomm/nsqueue
