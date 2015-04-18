@@ -47,9 +47,15 @@ https://github.com/soundcloud/roshi
 
 https://github.com/xeipuuv/gojsonschema
 
+https://github.com/dmcgowan/libchan
+
 #### 2014
 https://github.com/rakyll/boom
 
 https://github.com/go-distributed/epaxos
 
 https://github.com/cznic/kv
+
+https://github.com/xetorthio/etcd-fs
+
+https://github.com/goraft/raft
