@@ -1,6 +1,12 @@
 
 Airbnb Javascript Style Guide
 
+#### Spring 2015
+
+
+
+https://github.com/sotownsend/BooJS --- Unix swiss army knife for headless browser javascript
+
 https://github.com/airbnb/javascript
 
 https://github.com/substack/stream-handbook
