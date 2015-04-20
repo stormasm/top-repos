@@ -3,7 +3,7 @@ Airbnb Javascript Style Guide
 
 #### Spring 2015
 
-
+https://github.com/smrchy/rsmq --- A simple message queue based on Redis
 
 https://github.com/sotownsend/BooJS --- Unix swiss army knife for headless browser javascript
 
