@@ -7,22 +7,28 @@ https://github.com/ipfs
 * A blog engine compatible with Ghost themes ::
 https://github.com/kabukky/journey
 
+* A cross-platform debugger ::
 https://github.com/mailgun/godebug
 
+* Distributed file system ::
 https://github.com/chrislusf/seaweedfs
 
 * A toolkit for in service-oriented architectures ::
 https://github.com/peterbourgon/gokit
 
+* A curated list of awesome frameworks and libraries ::
 https://github.com/avelino/awesome-go
 
+* HTTP request router and web framework benchmark ::
 https://github.com/julienschmidt/go-http-routing-benchmark
 
 * An acme based CA ::
 https://github.com/letsencrypt/boulder
 
+* Probabilistic data structures for processing continuous, unbounded streams
 https://github.com/tylertreat/BoomFilters
 
+* Terminal dashboard ::
 https://github.com/gizak/termui
 
 * Fast HTTP router and micro web framework ::
