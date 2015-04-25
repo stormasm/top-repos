@@ -1,11 +1,11 @@
 
 #### Current
 
-https://github.com/ipfs
 * Block chain as a distributed file system:
+https://github.com/ipfs
 
-https://github.com/kabukky/journey
 * A blog engine written in Go, compatible with Ghost themes
+https://github.com/kabukky/journey
 
 https://github.com/mailgun/godebug
 
