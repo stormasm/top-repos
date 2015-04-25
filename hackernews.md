@@ -19,7 +19,7 @@ https://github.com/peterbourgon/gokit
 * A curated list of awesome frameworks and libraries ::
 https://github.com/avelino/awesome-go
 
-* HTTP request router and web framework benchmark ::
+* HTTP request router and web framework benchmark
 https://github.com/julienschmidt/go-http-routing-benchmark
 
 * An acme based CA ::
