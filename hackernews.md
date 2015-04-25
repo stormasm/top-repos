@@ -11,24 +11,30 @@ https://github.com/mailgun/godebug
 
 https://github.com/chrislusf/seaweedfs
 
+* A toolkit for in service-oriented architectures ::
 https://github.com/peterbourgon/gokit
 
 https://github.com/avelino/awesome-go
 
 https://github.com/julienschmidt/go-http-routing-benchmark
 
+* An acme based CA ::
 https://github.com/letsencrypt/boulder
 
 https://github.com/tylertreat/BoomFilters
 
 https://github.com/gizak/termui
 
+* Fast HTTP router and micro web framework ::
 https://github.com/labstack/echo
 
+* A modern text indexing library ::
 https://github.com/blevesearch/bleve
 
+* Time Series Alerting Framework ::
 https://github.com/bosun-monitor/bosun
 
+* auto wrap errors/panics w/deferclient ::
 https://github.com/deferpanic/deprehend
 
 #### 2015 Spring
