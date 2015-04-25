@@ -4,7 +4,7 @@
 * Block chain as a distributed file system:
 https://github.com/ipfs
 
-* A blog engine written in Go, compatible with Ghost themes
+* A blog engine compatible with Ghost themes
 https://github.com/kabukky/journey
 
 https://github.com/mailgun/godebug
