@@ -1,6 +1,9 @@
 
 #### Current
 
+* Plugins
+https://github.com/dullgiulio/pingo
+
 * Block chain as a distributed file system ::
 https://github.com/ipfs
 
