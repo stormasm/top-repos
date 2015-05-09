@@ -1,6 +1,9 @@
 
 #### Current
 
+* Clones of the *nix utilities written in go
+https://github.com/polegone/gonix
+
 * Plugins
 https://github.com/dullgiulio/pingo
 
