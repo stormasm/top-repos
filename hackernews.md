@@ -1,6 +1,9 @@
 
 #### Current
 
+* rtop is an interactive, remote system monitoring tool based on SSH
+https://github.com/rapidloop/rtop
+
 * Clones of the *nix utilities written in go
 https://github.com/polegone/gonix
 
