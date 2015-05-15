@@ -3,6 +3,9 @@ Airbnb Javascript Style Guide
 
 #### Spring 2015
 
+* extends d3 with some common jQuery functions
+https://github.com/wbkd/d3-extended
+
 * Command Line Json Processor
 https://github.com/stedolan/jq
 
