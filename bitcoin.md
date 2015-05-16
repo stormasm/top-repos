@@ -2,6 +2,7 @@
 #### Brainwallet Repos
 
 * https://github.com/kazuhikoarase/qrcode-generator
+* https://github.com/lapo-luchini/asn1js
 
 #### Misc
 
