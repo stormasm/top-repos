@@ -3,6 +3,9 @@ Airbnb Javascript Style Guide
 
 #### Spring 2015
 
+* Reqlite - RethinkDB in JavaScript
+https://github.com/neumino/reqlite
+
 * extends d3 with some common jQuery functions
 https://github.com/wbkd/d3-extended
 
