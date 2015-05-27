@@ -1,6 +1,9 @@
 
 #### Current
 
+* vault, a tool for managing secrets
+https://github.com/hashicorp/vault
+
 * tetris
 https://github.com/jjinux/gotetris
 
