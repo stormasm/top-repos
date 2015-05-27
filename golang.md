@@ -1,6 +1,9 @@
 
 #### Current
 
+* A simple, higher level interface for Go web scraping
+https://github.com/yhat/scrape
+
 * vault, a tool for managing secrets
 https://github.com/hashicorp/vault
 
