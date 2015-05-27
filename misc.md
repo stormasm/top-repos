@@ -1,5 +1,8 @@
 
 
+* Scalyr Community Documentation including Nginx Scaling
+https://github.com/scalyr/scalyr-community
+
 * Hub helps you win at Git
 https://github.com/github/hub
 
