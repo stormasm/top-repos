@@ -1,6 +1,9 @@
 
 #### Current
 
+* Given a web API, Generate client libraries in node, php, python, ruby
+https://github.com/pksunkara/alpaca
+
 * A git-like distributed file system for a Dockerized world.
 https://github.com/pachyderm/pfs
 
