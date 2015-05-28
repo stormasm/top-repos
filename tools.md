@@ -1,9 +1,12 @@
 
 
-Ryan Dahl's Interface to Go
+* Automagically set up a new server
+https://github.com/jlund/streisand
+
+* Ryan Dahl's Interface to Go
 https://github.com/ry/v8worker
 
-Composable Buffers for Go
+* Composable Buffers for Go
 https://github.com/djherbis/buffer
 
 https://github.com/ugorji/go
