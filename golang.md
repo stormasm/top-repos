@@ -1,6 +1,9 @@
 
 #### Current
 
+* A git-like distributed file system for a Dockerized world.
+https://github.com/pachyderm/pfs
+
 * A simple, higher level interface for Go web scraping
 https://github.com/yhat/scrape
 
