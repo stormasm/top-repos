@@ -15,3 +15,6 @@ https://www.gitbook.com
 https://github.com/GitbookIO/gitbook
 
 * https://github.com/bitlyfied/markdown-cv
+
+* Convert markdown to pdf, png or jpeg on the fly in Atom
+https://github.com/travs/markdown-pdf
