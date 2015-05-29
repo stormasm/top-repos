@@ -142,3 +142,7 @@ https://github.com/grafana/grafana
 https://github.com/mailgun/vulcand-docs
 
 https://github.com/crackcomm/nsqueue
+
+#### Books
+
+* https://github.com/initpy/go-book
