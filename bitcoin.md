@@ -7,6 +7,11 @@ https://github.com/coinbase/toshi
 * Javascript Node
 https://github.com/ryanxcharles/fullnode
 
+#### Wallets
+
+* Supports Multisig, Stealth and HD Addresses
+https://github.com/OutCast3k/coinbin
+
 #### Brainwallet Repos
 
 * https://github.com/kazuhikoarase/qrcode-generator
