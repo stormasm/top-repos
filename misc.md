@@ -1,5 +1,8 @@
 
 
+* Standards for flexible, durable, and sustainable HTML and CSS
+https://github.com/mdo/code-guide
+
 * Scalyr Community Documentation including Nginx Scaling
 https://github.com/scalyr/scalyr-community
 
