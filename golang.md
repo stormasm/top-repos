@@ -73,6 +73,9 @@ https://github.com/bosun-monitor/bosun
 * auto wrap errors/panics w/deferclient ::
 https://github.com/deferpanic/deprehend
 
+* consistent hashing with blog and paper
+https://github.com/sent-hil/consistenthash
+
 #### 2015 Spring
 
 https://github.com/gocircuit/circuit
