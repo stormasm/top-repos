@@ -23,6 +23,7 @@ https://github.com/OutCast3k/coinbin
 
 * https://github.com/OpenBazaar/OpenBazaar
 * https://github.com/okTurtles/groupcurrency.org
+* https://github.com/ElementsProject/elements
 
 #### Alternative
 
