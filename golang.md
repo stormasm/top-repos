@@ -1,6 +1,9 @@
 
 #### Current
 
+* Graceful restart for Go servers
+https://github.com/facebookgo/grace
+
 * Ryan Dahl's Interface to Go
 https://github.com/ry/v8worker
 
