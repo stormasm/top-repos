@@ -1,6 +1,9 @@
 
 #### Current
 
+* Fast, indexed regexp search over large file trees
+https://github.com/google/codesearch
+
 * Minimal Object Storage
 https://github.com/minio
 
