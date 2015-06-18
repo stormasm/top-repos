@@ -1,6 +1,9 @@
 
 #### Current
 
+* Minimal Object Storage
+https://github.com/minio
+
 * Graceful restart for Go servers
 https://github.com/facebookgo/grace
 
