@@ -1,6 +1,9 @@
 
 #### Current
 
+* A curated list of awesome Go frameworks, libraries and software
+https://github.com/avelino/awesome-go
+
 * HTTP traffic replay in real-time
 https://github.com/buger/gor/
 
