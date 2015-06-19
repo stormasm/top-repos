@@ -1,6 +1,9 @@
 
 #### Current
 
+* HTTP traffic replay in real-time
+https://github.com/buger/gor/
+
 * Fast, indexed regexp search over large file trees
 https://github.com/google/codesearch
 
