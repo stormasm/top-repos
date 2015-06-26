@@ -1,6 +1,9 @@
 
 #### Current
 
+* A Go "clone" of the great and famous Requests library
+https://github.com/levigross/grequests
+
 * A curated list of awesome Go frameworks, libraries and software
 https://github.com/avelino/awesome-go
 
