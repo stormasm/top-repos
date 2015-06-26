@@ -3,6 +3,9 @@ Airbnb Javascript Style Guide
 
 #### Spring 2015
 
+* Embedded datastore for node.js
+https://github.com/louischatriot/nedb
+
 * Reqlite - RethinkDB in JavaScript
 https://github.com/neumino/reqlite
 
