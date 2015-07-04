@@ -1,6 +1,9 @@
 
 #### Current
 
+* Data structures
+https://github.com/Workiva/go-datastructures
+
 * A Go "clone" of the great and famous Requests library
 https://github.com/levigross/grequests
 
