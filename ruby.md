@@ -1,4 +1,7 @@
 
+* Writing Fast Ruby :heart_eyes: —— Collect Common Ruby idioms.
+https://github.com/JuanitoFatas/fast-ruby
+
 https://github.com/jtescher/descriptive-statistics
 
 https://github.com/sagivo/algorithms
