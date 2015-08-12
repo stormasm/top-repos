@@ -1,4 +1,7 @@
 
+* Comparison of machine learning libraries
+https://github.com/szilard/benchm-ml
+
 * Packet filtering in Lua
 https://github.com/Igalia/pflua
 
