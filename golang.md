@@ -1,6 +1,9 @@
 
 #### Current
 
+* Modern Job Scheduler
+https://github.com/ajvb/kala
+
 * Data structures
 https://github.com/Workiva/go-datastructures
 
