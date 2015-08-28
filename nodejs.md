@@ -1,6 +1,11 @@
 
 Airbnb Javascript Style Guide
 
+#### Autumn 2015
+
+* Hackable HTTP proxy to simulate server failure scenarios and unexpected network conditions
+https://github.com/h2non/toxy
+
 #### Spring 2015
 
 * Embedded datastore for node.js
