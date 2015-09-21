@@ -3,6 +3,9 @@ Airbnb Javascript Style Guide
 
 #### Autumn 2015
 
+* JavaScript library operating system for the cloud http://runtimejs.org
+https://github.com/runtimejs/runtime
+
 * Hackable HTTP proxy to simulate server failure scenarios and unexpected network conditions
 https://github.com/h2non/toxy
 
