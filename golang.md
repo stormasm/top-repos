@@ -1,6 +1,9 @@
 
 #### Current
 
+* Badwolf from Google Temporal graph store abstraction layer.
+https://github.com/google/badwolf
+
 * Go-lua
 https://github.com/Shopify/go-lua
 
