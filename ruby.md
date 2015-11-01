@@ -1,4 +1,7 @@
 
+* Ruby Tricks
+https://github.com/franzejr/ruby-tricks
+
 * Writing Fast Ruby :heart_eyes: —— Collect Common Ruby idioms.
 https://github.com/JuanitoFatas/fast-ruby
 
