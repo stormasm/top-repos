@@ -3,6 +3,9 @@ Airbnb Javascript Style Guide
 
 #### Autumn 2015
 
+* Cycle.js a fully reactive JavaScript framework for Human-Computer Interaction
+https://github.com/cyclejs/cycle-core
+
 * JavaScript library operating system for the cloud http://runtimejs.org
 https://github.com/runtimejs/runtime
 
