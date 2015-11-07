@@ -1,6 +1,9 @@
 
 #### Current
 
+* Programmatic load balancer backed by Etcd https://vulcand.io
+https://github.com/mailgun/vulcand
+
 * Badwolf from Google Temporal graph store abstraction layer
 https://github.com/google/badwolf
 
@@ -167,8 +170,6 @@ https://github.com/boltdb/bolt
 https://github.com/siddontang/ledisdb
 
 https://github.com/mailgun/oxy
-
-https://github.com/mailgun/vulcand
 
 https://github.com/grafana/grafana
 
