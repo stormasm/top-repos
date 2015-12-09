@@ -3,6 +3,9 @@ Airbnb Javascript Style Guide
 
 #### Spring 2016
 
+* javascript embeddable / in-memory database
+https://github.com/techfort/LokiJS
+
 * The open source javascript graphing library that powers plotly
 https://github.com/plotly/plotly.js
 
