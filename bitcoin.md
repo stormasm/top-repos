@@ -2,6 +2,9 @@
 
 #### Nodes
 
+* bitcoin utils and protocol in ruby.
+https://github.com/lian/bitcoin-ruby
+
 * Ruby Node
 https://github.com/coinbase/toshi
 * Javascript Node
