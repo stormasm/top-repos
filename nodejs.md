@@ -3,6 +3,9 @@ Airbnb Javascript Style Guide
 
 #### Spring 2016
 
+* The open source javascript graphing library that powers plotly
+https://github.com/plotly/plotly.js
+
 * Streaming torrent client for node & the browser
 https://github.com/feross/webtorrent
 
