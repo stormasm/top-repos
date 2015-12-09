@@ -1,6 +1,11 @@
 
 Airbnb Javascript Style Guide
 
+#### Spring 2016
+
+* Streaming torrent client for node & the browser
+https://github.com/feross/webtorrent
+
 #### Autumn 2015
 
 * Cycle.js a fully reactive JavaScript framework for Human-Computer Interaction
