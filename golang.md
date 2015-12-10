@@ -8,7 +8,7 @@ https://github.com/edsrzf/mmap-go
 #### Current
 
 * Like Go channels over the network
-https://github.com/dmcgowan/libchan
+https://github.com/docker/libchan
 
 * foreman clone written in go language [used in etcd build system]
 https://github.com/mattn/goreman
