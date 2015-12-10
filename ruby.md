@@ -1,4 +1,7 @@
 
+* Ruby binding to the Networking and Cryptography (NaCl) library
+https://github.com/cryptosphere/rbnacl
+
 * Ruby Tricks
 https://github.com/franzejr/ruby-tricks
 
