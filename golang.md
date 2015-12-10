@@ -7,6 +7,9 @@ https://github.com/edsrzf/mmap-go
 
 #### Current
 
+* foreman clone written in go language [used in etcd build system]
+https://github.com/mattn/goreman
+
 * Programmatic load balancer backed by Etcd https://vulcand.io
 https://github.com/mailgun/vulcand
 
