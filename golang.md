@@ -1,4 +1,10 @@
 
+
+#### Spring 2016
+
+* A portable mmap package for Go
+https://github.com/edsrzf/mmap-go
+
 #### Current
 
 * Programmatic load balancer backed by Etcd https://vulcand.io
