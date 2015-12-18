@@ -1,4 +1,8 @@
 
+* Forum discussion used by Hugo and Bitpay
+* A platform for community discussion. Free, open, simple.
+https://github.com/discourse/discourse
+
 * Ruby binding to the Networking and Cryptography (NaCl) library
 https://github.com/cryptosphere/rbnacl
 
