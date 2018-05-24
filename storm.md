@@ -15,9 +15,9 @@
 
 [seerdata](https://github.com/seerdata?tab=repositories)
 
-[stormalone](https://github.com/stormalone?tab=repositories)
-
 [stormabq](https://github.com/stormabq?tab=repositories)
+
+[stormalone](https://github.com/stormalone?tab=repositories)
 
 [stormblog](https://github.com/stormblog?tab=repositories)
 
